@@ -433,3 +433,7 @@ yms4.ynotmail.net
 yms5.ynotmail.net
 ynotmail.net
 reederapp.com
+production.api.coindesk.com
+static.coindesk.com
+www.coindesk.com
+coindesk.com
