@@ -437,3 +437,10 @@ production.api.coindesk.com
 static.coindesk.com
 www.coindesk.com
 coindesk.com
+moxflix.de
+nonaplay.de
+semoplay.de
+heloplay.de
+pandaf-lix.de
+manuflix.de
+rayflix.de
