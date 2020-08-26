@@ -444,6 +444,8 @@ heloplay.de
 pandaf-lix.de
 manuflix.de
 rayflix.de
+find.selfbutler.com
+selfbutler.com
 m.tiktok.com
 tiktok.com
 www.tiktok.com
@@ -454,3 +456,7 @@ marketing360.com
 te.ip-prod.aws-cbc.cloud
 aws-cbc.cloud
 adalliance-a.akamaihd.net
+www.ebay.com.hk
+aloha-alternate.app.link
+facebook.sectioneight.net
+click.email.n26.com
