@@ -451,3 +451,6 @@ tiktokcdn.com
 v16.tiktokcdn.com
 email.marketing360.com
 marketing360.com
+te.ip-prod.aws-cbc.cloud
+aws-cbc.cloud
+adalliance-a.akamaihd.net
