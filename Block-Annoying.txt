@@ -460,3 +460,5 @@ www.ebay.com.hk
 aloha-alternate.app.link
 facebook.sectioneight.net
 click.email.n26.com
+fridays-deals.com
+news.fridays-deals.com
