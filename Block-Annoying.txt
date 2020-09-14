@@ -470,3 +470,9 @@ c10r.facebook.com
 facebook.com
 www.oculus.com
 oculus.com
+news.tuesday-deals.com
+tuesday-deals.com
+news.monday-deals.com
+monday-deals.com
+news.wednesday-deals.com
+wednesday-deals.com
