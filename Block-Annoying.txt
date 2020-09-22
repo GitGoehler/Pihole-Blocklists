@@ -476,3 +476,5 @@ news.monday-deals.com
 monday-deals.com
 news.wednesday-deals.com
 wednesday-deals.com
+tophandwerk24.de
+www.tophandwerk.de
