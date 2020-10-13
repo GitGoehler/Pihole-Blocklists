@@ -489,3 +489,6 @@ la4-c1-phx.phx.r.salesforceliveagent.com
 phx.r.salesforceliveagent.com
 r.salesforceliveagent.com
 cdn.speedcurve.com
+d1v989fj9a55hx.cloudfront.net
+news.fridays-deals.com
+winoperatesaid6.live
