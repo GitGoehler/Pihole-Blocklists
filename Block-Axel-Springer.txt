@@ -1,3 +1,4 @@
+a.bildstatic.de
 amiado.com
 amiadogroup.com
 antenne.de
@@ -36,7 +37,6 @@ autoshow.com.tr
 autotip.auto.cz
 autoundwirtschaft.at
 autoweek.nl
-autoweek.nl
 avfbild.de
 axel-springer-akademie.de
 axelspringer-syndication.de
@@ -53,6 +53,8 @@ beobachtertv.ch
 bilanz-magazin.de
 bild.de
 bilder.bild.de
+bilder.bild.de
+bildstatic.de
 blic.rs
 blikk.hu
 bonial.com
@@ -62,6 +64,7 @@ bz.de
 c.finanzen.net
 carwale.com
 casamundo.com
+cmp2.bild.de
 code.bildstatic.de
 computerbild.de
 computerbildspiele.de
@@ -99,6 +102,7 @@ immowelt.de
 jobsite.co.uk
 kaufda.de
 komputerswiat.pl
+la.welt.de
 labanquesuisse.ch
 lacentrale.fr
 ladenzeile.de
@@ -120,19 +124,22 @@ nin.co.rs
 ok-magazine.ru
 onet.pl
 onmeda.de
-onmeda.de
 ozy.com
 partyguide.ch
 piwik.up.welt.de
 playpc.pl
 pme.ch
 politico.eu
+prod.ps.bild.de
 profession.hu
+ps.bild.de
 radiohamburg.de
 radionrw.de
 rem-track.bild.de
 resources-production.la.welt.de
+resources-production.la.welt.de
 rollingstone.de
+rosetta.prod.ps.bild.de
 rs2.de
 runtastic.com
 schweizerbank.ch
@@ -176,6 +183,7 @@ vip-club.computer-bild.de
 wams.de
 welt.de
 weltn24.de
+whoami-web.prod.ps.bild.de
 www.amiado.com
 www.amiadogroup.com
 www.antenne.de
@@ -209,7 +217,6 @@ www.autoplus.fr
 www.autoshow.com.tr
 www.autotip.auto.cz
 www.autoundwirtschaft.at
-www.autoweek.nl
 www.autoweek.nl
 www.avfbild.de
 www.axel-springer-akademie.de
