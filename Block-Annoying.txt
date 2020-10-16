@@ -85,7 +85,6 @@ buck-traffic.com
 bucket.mlcdn.com
 buzzard.org
 c.ddv-mediengruppe.org
-c10r.facebook.com
 cambridgeanalytica.org
 candycrush.king.com
 cdn-magiclinks.trackonomics.net
@@ -147,8 +146,6 @@ entitlement.ncs.telefonica.de
 eptedthere.pro
 europa-konzept.eu
 everyaction.com
-facebook.com
-facebook.sectioneight.net
 files.upscore.com
 find.selfbutler.com
 firebase.com
@@ -243,7 +240,6 @@ naiadsystems.com
 netmng.com
 news.douglas.de
 news.fridays-deals.com
-news.fridays-deals.com
 news.medpex.de
 news.monday-deals.com
 news.tuesday-deals.com
@@ -256,8 +252,6 @@ noscript-csp.invalid
 npd.de
 nuxues.com
 o.yourlust.com
-oculus.c10r.facebook.com
-oculus.com
 offerwall-adnative.com
 ohioansforgunsafety.us15.list-manage.com
 omgthatawsome2.info
