@@ -481,3 +481,7 @@ yms4.ynotmail.net
 yms5.ynotmail.net
 ynotmail.net
 zwltjij.x.incapdns.net
+news.zeitgeistmailings.com
+zeitgeistmailings.com
+ec2-18-185-31-19.eu-central-1.compute.amazonaws.com
+ec2-3-120-139-4.eu-central-1.compute.amazonaws.com
