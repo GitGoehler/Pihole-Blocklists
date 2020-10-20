@@ -113,7 +113,6 @@ cs9.wac.phicdn.net
 csscdn.redblue.de
 cssdata.redblue.de
 cul-api-prod.tpv-analytics.com
-d.mailer.humblebundle.com
 d1v989fj9a55hx.cloudfront.net
 dac-api-prod.tpv-analytics.com
 data1track.com
@@ -140,7 +139,6 @@ econda-monitor.de
 eike-klima-energie.eu
 einprozent.de
 elasticbeanstalk.com
-email.marketing360.com
 emq.bf-tools.net
 entitlement.ncs.telefonica.de
 eptedthere.pro
@@ -156,7 +154,6 @@ footprint.net
 fridays-deals.com
 frprn.com
 fuq.com
-gallery.mailchimp.com
 gametestergo.com
 garry.sgaas.net
 gedmhqqipuz6wfon.pro
@@ -213,10 +210,8 @@ lldns.net
 lobizan.com
 m.tiktok.com
 mafo.adalliance.io
-mailchimp.com
 main.dynsrvcab.com
 manuflix.de
-marketing360.com
 masterbate.pro
 mcusercontent.com
 media.tag24.de
@@ -238,14 +233,6 @@ mydealz.de
 n-cdn.areyouahuman.com
 naiadsystems.com
 netmng.com
-news.douglas.de
-news.fridays-deals.com
-news.medpex.de
-news.monday-deals.com
-news.tuesday-deals.com
-news.wednesday-deals.com
-newsatads.com
-newsletter.zattoo.com
 nitropay.com
 nonaplay.de
 noscript-csp.invalid
@@ -326,7 +313,6 @@ spreediscount.com
 sptrack.mailer.humblebundle.com
 spywarenotfall.de
 srvtrck.com
-state-of-the-art-mailer.com
 static.ads-twitter.com
 static.coindesk.com
 static1.mlsend.com
@@ -363,13 +349,11 @@ tichyseinblick.de
 tiktok.com
 tiktokcdn.com
 timeforagreement.com
-tmailclick.nvidia.com
 token.pornerbros.com
 tophandwerk24.de
 tpv-analytics.com
 track.adformnet.akadns.net
 track.sp.actionkit.com
-track.spe.zyngamail.com
 track.synology.com
 track2.selfcampaign.com
 tracker-api.scoober.com
@@ -474,14 +458,4 @@ yahoo.com
 yahoo.de
 yahooapis.com
 yandex.ru
-yms1.ynotmail.net
-yms2.ynotmail.net
-yms3.ynotmail.net
-yms4.ynotmail.net
-yms5.ynotmail.net
-ynotmail.net
 zwltjij.x.incapdns.net
-news.zeitgeistmailings.com
-zeitgeistmailings.com
-ec2-18-185-31-19.eu-central-1.compute.amazonaws.com
-ec2-3-120-139-4.eu-central-1.compute.amazonaws.com

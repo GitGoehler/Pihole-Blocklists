@@ -4,10 +4,10 @@ facebook.de
 facebook.org
 facebook.sectioneight.net
 graph.facebook.com
+news.oculus.com
 oculus.c10r.facebook.com
 oculus.com
 www.facebook.com
 www.facebook.de
 www.facebook.org
 www.oculus.com
-news.oculus.com
