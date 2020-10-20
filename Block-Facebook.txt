@@ -9,3 +9,5 @@ oculus.com
 www.facebook.com
 www.facebook.de
 www.facebook.org
+www.oculus.com
+news.oculus.com
