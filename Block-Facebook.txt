@@ -11,3 +11,5 @@ www.facebook.com
 www.facebook.de
 www.facebook.org
 www.oculus.com
+star-mini.c10r.facebook.com
+z-p42-instagram.c10r.facebook.com

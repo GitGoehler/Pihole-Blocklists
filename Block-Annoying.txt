@@ -459,3 +459,13 @@ yahoo.de
 yahooapis.com
 yandex.ru
 zwltjij.x.incapdns.net
+bitcoinnews.ch
+trk.klclick.com
+ccc-tracker-eb-live.eu-west-1.elasticbeanstalk.com
+adx.track-srv.com
+track-srv.com
+eulatracking-public-service-prod06.ol.epicgames.com
+mtalk.google.com
+ip-info.ff.avast.com
+wecare.telekom.com
+telemetry.api.2kcoretech.online
