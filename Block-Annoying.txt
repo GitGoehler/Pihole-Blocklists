@@ -469,3 +469,10 @@ mtalk.google.com
 ip-info.ff.avast.com
 wecare.telekom.com
 telemetry.api.2kcoretech.online
+www.getback.ch
+static.getback.ch
+getback.ch
+www.lupe.at
+lupe.at
+www.blogheim.at
+blogheim.at
