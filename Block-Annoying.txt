@@ -36,6 +36,7 @@ adtelligence.de
 adtriba.com
 advertising.amazon.de
 advertising.com
+adx.track-srv.com
 adzbux.com
 afd.de
 affiliates.audiobooks.com
@@ -77,7 +78,9 @@ bestcheck.de
 bestcontenttool.top
 betacssjs.chesscomfiles.com
 bf-tools.net
+bitcoinnews.ch
 blog-angelin.info
+blogheim.at
 boerse.to
 borontok.uk
 browserdocumentsapp.com
@@ -87,6 +90,7 @@ buzzard.org
 c.ddv-mediengruppe.org
 cambridgeanalytica.org
 candycrush.king.com
+ccc-tracker-eb-live.eu-west-1.elasticbeanstalk.com
 cdn-magiclinks.trackonomics.net
 cdn.acloudvideos.com
 cdn.smartclick.net
@@ -118,6 +122,7 @@ dac-api-prod.tpv-analytics.com
 data1track.com
 de.com
 de17a.com
+de19-homad-lb.schneevonmorgen.com
 demarks.com
 demarks.us16.list-manage.com
 devcontact.com
@@ -142,6 +147,7 @@ elasticbeanstalk.com
 emq.bf-tools.net
 entitlement.ncs.telefonica.de
 eptedthere.pro
+eulatracking-public-service-prod06.ol.epicgames.com
 europa-konzept.eu
 everyaction.com
 files.upscore.com
@@ -157,6 +163,7 @@ fuq.com
 gametestergo.com
 garry.sgaas.net
 gedmhqqipuz6wfon.pro
+getback.ch
 getmyad.com
 getpocket.cdn.mozilla.net
 gj-mobile-services.de
@@ -188,6 +195,7 @@ init.offerwall-adnative.com
 instana.io
 intelliad.de
 intextlinks.idg.zone
+ip-info.ff.avast.com
 iqlance.com
 js.redblue.de
 js.srvtrck.com
@@ -208,6 +216,7 @@ list-manage.com
 livejasmin.com
 lldns.net
 lobizan.com
+lupe.at
 m.tiktok.com
 mafo.adalliance.io
 main.dynsrvcab.com
@@ -227,6 +236,7 @@ monday-deals.com
 mopeak.com
 movad.de
 moxflix.de
+mtalk.google.com
 myamericanmatch.com
 mydealz.com
 mydealz.de
@@ -294,6 +304,7 @@ s.welect.de
 sadsans.com
 salesforceliveagent
 sanalytics.metro.de
+schneevonmorgen.com
 sciencefiles.org
 search.srvtrck.com
 sectigo.com
@@ -315,6 +326,7 @@ spywarenotfall.de
 srvtrck.com
 static.ads-twitter.com
 static.coindesk.com
+static.getback.ch
 static1.mlsend.com
 stats.artifexmundi.com
 stats.hbbtv.smartclip.net
@@ -338,6 +350,7 @@ talk.allthatsinteresting.com
 tapbots.net
 taz.met.vgwort.de
 te.ip-prod.aws-cbc.cloud
+telemetry.api.2kcoretech.online
 telemetry.mozilla.org
 temp.aatkit.com
 test.churchofjesuschrist.org
@@ -352,6 +365,7 @@ timeforagreement.com
 token.pornerbros.com
 tophandwerk24.de
 tpv-analytics.com
+track-srv.com
 track.adformnet.akadns.net
 track.sp.actionkit.com
 track.synology.com
@@ -370,6 +384,7 @@ trafficstars.com
 trcklab.net
 trends.google.de
 tresuredata.com
+trk.klclick.com
 tsp.stats.urban-media.com
 tsyndicate.com
 tuesday-deals.com
@@ -396,13 +411,16 @@ webedia-de.nuggad.net
 webfail.com
 webstats.empflix.com
 webtrekk.net
+wecare.telekom.com
 wednesday-deals.com
+welect.de
 welect.de
 widget.civey.com
 widgets.geizhals.at
 widgets.getpocket.com
 widgets.opinary.com
 winoperatesaid6.live
+wlct-two.de
 wunderweib.de
 www.afd.de
 www.alhapi.com
@@ -410,16 +428,19 @@ www.amazon.sa
 www.asacp.org
 www.bank66 .com
 www.blog-angelin.info
+www.blogheim.at
 www.browserdocumentsapp.com
 www.buzzard.org
 www.coindesk.com
 www.cyberpatrol.com
 www.cybersitter.com
+www.de.welect.de
 www.derfunke.de
 www.discord.gg
 www.ebay.com.hk
 www.eike-klima-energie.eu
 www.frendx.com
+www.getback.ch
 www.getmyad.com
 www.google.pl
 www.google.ro
@@ -428,6 +449,7 @@ www.heikoschrang.de
 www.kaltesonne.de
 www.keinenkrebs.com
 www.kla.tv
+www.lupe.at
 www.melanie-huml.de
 www.milenapreradovic.com
 www.netnanny.com
@@ -448,6 +470,7 @@ www.tiktok.com
 www.tophandwerk.de
 www.wankgalore.com
 www.welect.de
+www.wlct-two.de
 www.yourpassiontube.com
 xing-share.com
 xiti.com
@@ -459,20 +482,3 @@ yahoo.de
 yahooapis.com
 yandex.ru
 zwltjij.x.incapdns.net
-bitcoinnews.ch
-trk.klclick.com
-ccc-tracker-eb-live.eu-west-1.elasticbeanstalk.com
-adx.track-srv.com
-track-srv.com
-eulatracking-public-service-prod06.ol.epicgames.com
-mtalk.google.com
-ip-info.ff.avast.com
-wecare.telekom.com
-telemetry.api.2kcoretech.online
-www.getback.ch
-static.getback.ch
-getback.ch
-www.lupe.at
-lupe.at
-www.blogheim.at
-blogheim.at
