@@ -482,3 +482,5 @@ yahoo.de
 yahooapis.com
 yandex.ru
 zwltjij.x.incapdns.net
+card.exophase.com
+exophase.com
