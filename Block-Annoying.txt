@@ -90,6 +90,7 @@ buzzard.org
 c.ddv-mediengruppe.org
 cambridgeanalytica.org
 candycrush.king.com
+card.exophase.com
 ccc-tracker-eb-live.eu-west-1.elasticbeanstalk.com
 cdn-magiclinks.trackonomics.net
 cdn.acloudvideos.com
@@ -150,6 +151,7 @@ eptedthere.pro
 eulatracking-public-service-prod06.ol.epicgames.com
 europa-konzept.eu
 everyaction.com
+exophase.com
 files.upscore.com
 find.selfbutler.com
 firebase.com
@@ -207,6 +209,8 @@ king.com
 kla.tv
 konservativeraufbruch.de
 konservativeraufbruch.files.wordpress.com
+konsolentreff.de
+konsolentreff.net
 la4-c1-phx.phx.r.salesforceliveagent.com
 lasertreatments.com
 lfk6.adj.st
@@ -226,6 +230,7 @@ mcusercontent.com
 media.tag24.de
 medisafeproject.com
 melanie-huml.de
+metrics.claspws.tv
 mfadsrvr.com
 michaels.com
 milenapreradovic.com
@@ -482,8 +487,3 @@ yahoo.de
 yahooapis.com
 yandex.ru
 zwltjij.x.incapdns.net
-card.exophase.com
-exophase.com
-konsolentreff.de
-konsolentreff.net
-metrics.claspws.tv
