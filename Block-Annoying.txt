@@ -487,3 +487,7 @@ yahoo.de
 yahooapis.com
 yandex.ru
 zwltjij.x.incapdns.net
+metrics.claspws.tv
+insights-collector.gog.com
+marketingcloudapis.com
+device.marketingcloudapis.com
